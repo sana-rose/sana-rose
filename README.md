@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sana Angel Rose 👋
 
-<!--
-**sana-rose/sana-rose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analytics | Python | SQL | Power BI | Machine Learning | Generative AI
 
-Here are some ideas to get you started:
+B.Tech in Computer Science & Engineering graduate currently specializing in Data Analytics and Generative AI. I enjoy working with data, building analytical solutions, and exploring AI-driven applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+- Python | SQL | Pandas | NumPy
+- Power BI | Tableau | Excel
+- Statistics | Machine Learning
+- Generative AI
+
+### 📌 Currently Working On
+
+- Data Analytics projects
+- SQL & Power BI case studies
+- Machine Learning projects
+- Generative AI applications
+
